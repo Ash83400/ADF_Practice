@@ -1,0 +1,9 @@
+{
+	"name": "ashdfprodatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fae8e2e8-b852-45cd-bae2-6f57ee5a37e1",
+		"tenantId": "9847a006-48c5-49d5-9ebc-ef45a266c36f"
+	}
+}
